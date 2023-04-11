@@ -1,2 +1,2 @@
-# Data-Centric
-My first Repository on Githhub
+Global COVID-19 Analysis Dashboard
+
